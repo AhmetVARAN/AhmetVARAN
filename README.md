@@ -25,6 +25,10 @@ Here are some ideas to get you started:
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
+  &emsp; 
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/PHP-%20-blue?style=plastic&logo=php&logoColor=white">
+  </a>
   &emsp;
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
@@ -35,6 +39,19 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+### 👉 Frameworks
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://symfony.com/" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Symfony-4%2C5%2C6-lightgrey?style=plastic&logo=java&logoColor=white">
+  </a>
+  &emsp; 
+  <a href="https://spring.io/" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Spring-Framework-brightgreen?style=plastic&logo=java&logoColor=white">
+  </a>
+ 
+</p>
 ### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
@@ -44,6 +61,10 @@ Here are some ideas to get you started:
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://www.javascript.com/" target="_blank">
+    <img alt="JS" src="https://img.shields.io/badge/Java-Script-yellow?style=plastic&logo=css3&logoColor=white">
   </a> 
 </p>
 
