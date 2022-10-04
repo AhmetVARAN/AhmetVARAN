@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 <!--
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/AhmetVARAN/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmetVARAN&layout=compact&theme=algolia" alt="MrVARAN" /></a> </p>
+<p align="center"> <a href="https://github.com/AhmetVARAN/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmetVARAN&layout=compact&theme=algolia" alt="AhmetVARAN" /></a> </p>
 -->
 
 
