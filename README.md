@@ -50,8 +50,8 @@ Here are some ideas to get you started:
   <a href="https://spring.io/" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Spring-Framework-brightgreen?style=plastic&logo=java&logoColor=white">
   </a>
- 
 </p>
+
 ### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
- ### 👉 Software & Tools
+### 👉 Software & Tools
  
 <p align="center">
   &emsp;
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 </p>
 
  
-
+<!--
  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/AhmetVARAN"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AhmetVARAN&custom_title=AhmetVARAN's%20Contribution%20Graph&theme=react-dark" /></a>
@@ -102,11 +102,10 @@ Here are some ideas to get you started:
 
 <br/>
 
-<!--
+
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/AhmetVARAN/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmetVARAN&layout=compact&theme=algolia" alt="AhmetVARAN" /></a> </p>
--->
 
 
 
@@ -117,5 +116,6 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmetVARAN&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AhmetVARAN&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
+-->
 
 <hr>
